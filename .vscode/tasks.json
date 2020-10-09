@@ -5,7 +5,7 @@
             "label": "makeNemu",
             "command": "make",
             "args": [
-                "gdb"    //make testcase PROG mov
+               // "gdb"    //make testcase PROG mov
             ],
             "options": {
                 "cwd": "${workspaceFolder}"
